@@ -1,4 +1,4 @@
-# Gestionnaire-de-contacts
+# gestionnaire-de-contacts
 
 <p align="justify">Initiation à JavaScript : travail réalisé dans le cadre du MOOC <a href="https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript">"Apprenez à coder avec JavaScript"</a> proposé par la plateforme OpenClassrooms.</p>
 
